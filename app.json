@@ -2,7 +2,7 @@
     "name": "What's Up",
     "description": "By Jan Kramer",
     "repository": "https://github.com/admirallordmizius/what-s-up",
-    "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
+    "logo": "https://imgur.com/a/awJK03w",
     "keywords": [
         "nodejs",
         "Bot",
@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "cyber-x@;;;lMtCWDLR#u3ff3u_hPwKSJ8SQp1yoieY7dIhExzUdSCkI8kiCkA0",
             "required": true,
             "value": ""
         },
