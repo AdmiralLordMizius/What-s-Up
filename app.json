@@ -14,20 +14,20 @@
         "SESSION_ID": {
             "description": "cyber-x@;;;lMtCWDLR#u3ff3u_hPwKSJ8SQp1yoieY7dIhExzUdSCkI8kiCkA0",
             "required": true,
-            "value": ""
+            "value": "cyber-x@;;;lMtCWDLR#u3ff3u_hPwKSJ8SQp1yoieY7dIhExzUdSCkI8kiCkA0"
         },
         "HEROKU_API_KEY": {
-            "description": "Enter your heroku account api key",
+            "description": "fe845bb1-cd32-42ed-93b0-3e58cfb40dc9",
             "required": true,
-            "value": ""
+            "value": "fe845bb1-cd32-42ed-93b0-3e58cfb40dc9"
         },
         "HEROKU_APP_NAME": {
             "description": "Enter you pushed app Name",
-            "required": true,
+            "required": false,
             "value": ""
         },
         "WORK_TYPE": {
-            "description": "Add the worktype of the Bot ( private , public , only_group )",
+            "description": "Status",
             "required": true,
             "value": "private"
         }
